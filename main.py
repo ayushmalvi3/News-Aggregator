@@ -38,7 +38,7 @@ st.markdown(f"""
         border: 2px solid white;
         border-radius: 10px;
         background-color: black;
-        color: #39FF14;
+        color: #00FFFF;
         font-size: 16px;
         margin-top: 20px;
         white-space: pre-wrap;
@@ -53,7 +53,7 @@ st.markdown(f"""
     }}
     .read-button {{
         background-color: black;
-        color: #00FFFF;
+        color: #39FF14;
         font-size: 16px;
         padding: 6px 14px;
         border: 2px solid #39FF14;
