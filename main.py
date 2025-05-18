@@ -53,7 +53,7 @@ st.markdown(f"""
     }}
     .read-button {{
         background-color: black;
-        color: #39FF14;
+        color: #00FFFF;
         font-size: 16px;
         padding: 6px 14px;
         border: 2px solid #39FF14;
